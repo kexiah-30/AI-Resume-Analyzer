@@ -1,0 +1,4 @@
+John Doe
+Python Developer
+Skills: Python, Machine Learning, NLP, Data Analysis
+Experience: 2 years in AI projects
